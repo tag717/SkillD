@@ -1,1 +1,5 @@
-public class SkillD {} //add later
+public class SkillD {
+    public static int adding(int a, int b){
+        return a + b;
+    }
+} //add later
